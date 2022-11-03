@@ -1,3 +1,6 @@
+# Author-Github: vvvlntno
+# Date: 03.11.2022
+
 import re
 
 class Board:
